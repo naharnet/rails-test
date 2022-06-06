@@ -39,7 +39,3 @@ Add an admin section to the RailsGuest meeting the following requirements:
 - An admin should be able to mark a message as hidden.
 - Users on the messages page should not be able to view messages that have been marked as hidden.
 - When an admin is logged in, the messages page should show all the messages (including the hidden ones) and the hidden messages should be in red text.
-
-## Submissions
-
-To submit, create a new branch, push your changes, create a Pull Request and send the link.
